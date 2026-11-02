@@ -1,0 +1,9 @@
+# The published .npy a rebuild starts from, and the build output of build_kernel.m
+data/*.npy
+data/raw/
+kernels/*.mex*
+*.mexw64
+*.mexa64
+*.obj
+*.pdb
+block_curve.txt
